@@ -1,0 +1,1 @@
+﻿powershell -file main.ps1
